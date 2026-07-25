@@ -67,4 +67,4 @@
 
 <hr/>
 <br/>
-![](https://leetcard.jacoblin.cool/AkshatMishra4540?theme=light,unicorn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AkshatMishra4540?theme=light&font=Bellota%20Text)
