@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-        <img src="https://skillicons.dev/icons?i=spring,maven,docker,postgresql,css,vscode,github,figma,git,linux,n8n" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+        <img src="https://skillicons.dev/icons?i=spring,maven,docker,postgresql,css,vscode,github,git,claude,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,java,mysql,flask" /><br>
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AkshatJski/AkshatJski/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
