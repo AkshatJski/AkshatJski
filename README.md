@@ -67,4 +67,8 @@
 
 <hr/>
 <br/>
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/AkshatMishra4540)
+<p align="center">
+  <a href="https://leetcode.com/AkshatMishra4540">
+    <img src="https://leetcard.jacoblin.cool/AkshatMishra4540?theme=unicorn&font=Bellota%20Text" alt="LeetCode Stats" />
+  </a>
+</p>
